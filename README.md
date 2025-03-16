@@ -12,7 +12,7 @@ R, Data Analysis, Data Visualization, Descriptive Statistics, Multiple Regressio
 People with more frequent health problems typically have a lower income than those without frequent health problems.
 
 ## 📖 Variables
-The data I used was collected from the General Social Survey in 2022. Respondents either completed face-to-face interviews, a web self-administered questionnaire, or a phone interview. 
+The data I used was collected from the [General Social Survey in 2022](https://gss.norc.org/). Respondents either completed face-to-face interviews, a web self-administered questionnaire, or a phone interview. 
 
 The final dataset after cleaning had 731 rows and 5 columns.
 

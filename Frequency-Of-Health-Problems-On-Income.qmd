@@ -1,12 +1,7 @@
 ---
-title: "Final Project DACSS603"
-subtitle: "Frequency of Health Problems vs. Income"
+title: "Frequency of Health Problems vs. Income"
 author: "Nikita Johnson"
-format: 
-  pdf:
-    header-includes:
-      - \usepackage{float}
-      - \floatplacement{table}{H}
+format: html
   
 editor: visual
 ---

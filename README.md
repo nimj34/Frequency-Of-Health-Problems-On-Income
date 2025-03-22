@@ -11,6 +11,12 @@ R, Data Analysis, Data Visualization, Descriptive Statistics, Multiple Regressio
 ## 🔎 Hypothesis
 People with more frequent health problems typically have a lower income than those without frequent health problems.
 
+## 📉 Key Findings
+When age, sex, and disability status are held constant, each increase of 1 unit in the 'HLTHPRB' variable leads to a corresponding 17.72% decrease in income. 
+
+Compared
+to those with no difficulties doing ADLs due to health problems, those that very often have difficulty doing ADLs due to health problems are projected to make approximately 70.87% less.
+
 ## 📖 Variables
 The data I used was collected from the [General Social Survey in 2022](https://gss.norc.org/). Respondents either completed face-to-face interviews, a web self-administered questionnaire, or a phone interview. 
 
@@ -49,7 +55,3 @@ Values:
 
 * 1 = MALE
 * 2 = FEMALE
-
-## 📉 Findings
-When age, sex, and disability status are held constant, each increase of 1 unit in the 'HLTHPRB' variable leads to a corresponding 17.72% decrease in income. Compared
-to those with no difficulties doing ADLs due to health problems, those that very often have difficulty doing ADLs due to health problems are projected to make approximately 70.87% less.
